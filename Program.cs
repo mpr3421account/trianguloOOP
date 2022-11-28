@@ -1,5 +1,6 @@
 ﻿using System.Globalization;
 using trianguloOOP;
+//com oop
 
 Triangulo x, y;
 x = new Triangulo();
